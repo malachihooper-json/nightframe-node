@@ -1,4 +1,4 @@
-# Mesh Networking
+# Comprehensive Mesh Networking Solution for .NET
 
 Plug-and-play P2P mesh network library for distributed computation.
 
@@ -44,3 +44,4 @@ await node.BroadcastAsync(new Message { Type = "work", Payload = data });
 
 - .NET 8.0+
 - Network access for peer discovery
+
